@@ -19,7 +19,7 @@ Nesta fase, coletamos e organizamos dados cardiológicos fundamentais, seguindo 
 **Dataset escolhido:** Heart Disease UCI (Cleveland Database) – versão popular e limpa do Kaggle  
 **Origem:**  
 - Fonte principal: UCI Machine Learning Repository (1988) – https://archive.ics.uci.edu/dataset/45/heart+disease  
-- Versão utilizada: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset (ou https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)  
+- Versão utilizada: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset   
 **Tipo:** Dados reais (anônimos) coletados em hospitais americanos  
 **Tamanho:** 303 instâncias (pacientes) × 14 atributos (atende ao mínimo de 100 linhas)  
 **Arquivo:** `data/
