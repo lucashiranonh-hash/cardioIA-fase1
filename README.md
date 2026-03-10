@@ -3,6 +3,7 @@
 **Projeto Acadêmico – FIAP | Curso de Inteligência Artificial**  
 **Fase 1 – Batimentos de Dados**  
 **Aluno:** Lucas Yuji Nakayama Hirano / RM: 563420
+
 **Objetivo:** Preparar bases de dados numéricos, textuais e visuais para alimentar os módulos inteligentes do CardioIA (plataforma de cardiologia moderna com IA, IoT, Visão Computacional e NLP).
 
 Nesta fase, coletamos e organizamos dados cardiológicos fundamentais, seguindo princípios de **Governança de Dados** e atenção a **viés** (ex.: representatividade populacional, anonimato, qualidade e limitações éticas). Esses dados serão a base para fases futuras de modelagem, triagem, diagnóstico e monitoramento remoto.
