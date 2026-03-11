@@ -1,8 +1,9 @@
-# CardioIA - Fase 1: Batimentos de Dados
+CardioIA – Fase 1: Batimentos de Dados
 
-**Projeto Acadêmico – FIAP | Curso de Inteligência Artificial**  
-**Fase 1 – Batimentos de Dados**  
-**Aluno:** Lucas Yuji Nakayama Hirano / RM: 563420
+Projeto Acadêmico – FIAP | Curso de Inteligência Artificial
+
+Aluno: Lucas Yuji Nakayama Hirano
+RM: 563420
 
 **Objetivo:** Preparar bases de dados numéricos, textuais e visuais para alimentar os módulos inteligentes do CardioIA (plataforma de cardiologia moderna com IA, IoT, Visão Computacional e NLP).
 
