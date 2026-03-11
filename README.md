@@ -103,7 +103,7 @@ Link original: https://www.kaggle.com/datasets/evilspirit05/ecg-analysis (ou sim
 **Arquivo:** `assets/ecg_images.zip` (compactado para facilitar upload)
 
 **Link público para download completo das imagens:**  
-https://drive.google.com/file/d/1MandSSkNH8R9K1TUcHuvtEDaCWgKhLuQ/view?usp=sharing
+https://drive.google.com/file/d/16kwOGAmC1nWkSERaDDC4ibowweKVLTeI/view?usp=sharing
 
 **Análises possíveis com Visão Computacional:**
 - Detecção e classificação de arritmias (ex.: normal vs. fibrilação atrial, bloqueios).
