@@ -28,11 +28,16 @@ Esses dados serão utilizados nas próximas fases para treinamento de modelos de
 
 
 ## Estrutura do Repositório
-
-Estrutura do Repositório data/ 
-Dataset numérico (CSV) assets/ 
-Textos (.txt) e imagens (ou .zip das imagens) 
-README.md
+cardioIA-fase1
+│
+├── data/
+│   └── heart_disease_cleveland.csv
+│
+├── assets/
+│   └── ecg_images/
+│
+├── notebook.ipynb
+└── README.md
 
 Descrição das pastas:
 
