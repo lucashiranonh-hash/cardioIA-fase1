@@ -29,25 +29,18 @@ Esses dados serão utilizados nas próximas fases para treinamento de modelos de
 
 ## Estrutura do Repositório
 
-CardioIA
-│
-├── data/
-│   └── heart_disease_cleveland.csv
-│
-├── assets/
-│   ├── texto1.txt
-│   ├── texto2.txt
-│   └── ecg_images.zip
-│
-└── README.md
+Estrutura do Repositório data/ 
+Dataset numérico (CSV) assets/ 
+Textos (.txt) e imagens (ou .zip das imagens) 
+README.md
 
 Descrição das pastas:
 
-data/ → dataset numérico em formato CSV
+data  dataset numérico em formato CSV
 
-assets/ → textos médicos e imagens de ECG
+assets  textos médicos e imagens de ECG
 
-README.md → documentação do projeto
+README.md  documentação do projeto
 
 
 
