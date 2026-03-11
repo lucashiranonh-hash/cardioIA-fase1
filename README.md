@@ -11,6 +11,16 @@ para identificar padrões associados a doenças cardíacas.
 O projeto utiliza o dataset Cleveland Heart Disease e imagens de ECG
 para análise exploratória e futura modelagem de IA.
 
+
+## Tecnologias utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+
 Fase 1 – Batimentos de Dados, o objetivo foi coletar, organizar e documentar três tipos de dados fundamentais que servirão como base para os módulos inteligentes do sistema:
  Dados numéricos clínicos (IoT / dados médicos)
 
