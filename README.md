@@ -5,7 +5,11 @@ Projeto Acadêmico – FIAP | Curso de Inteligência Artificial
 Aluno: Lucas Yuji Nakayama Hirano
 RM: 563420
 
-**Objetivo:** Preparar bases de dados numéricos, textuais e visuais para alimentar os módulos inteligentes do CardioIA (plataforma de cardiologia moderna com IA, IoT, Visão Computacional e NLP).
+
+O objetivo é explorar dados clínicos e sinais de eletrocardiograma (ECG)
+para identificar padrões associados a doenças cardíacas.
+O projeto utiliza o dataset Cleveland Heart Disease e imagens de ECG
+para análise exploratória e futura modelagem de IA.
 
 Fase 1 – Batimentos de Dados, o objetivo foi coletar, organizar e documentar três tipos de dados fundamentais que servirão como base para os módulos inteligentes do sistema:
  Dados numéricos clínicos (IoT / dados médicos)
