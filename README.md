@@ -1,4 +1,4 @@
-CardioIA – Fase 1: Batimentos de Dados
+
 
 Projeto Acadêmico – FIAP | Curso de Inteligência Artificial
 
@@ -6,10 +6,14 @@ Aluno: Lucas Yuji Nakayama Hirano
 RM: 563420
 
 
-O objetivo é explorar dados clínicos e sinais de eletrocardiograma (ECG)
-para identificar padrões associados a doenças cardíacas.
-O projeto utiliza o dataset Cleveland Heart Disease e imagens de ECG
-para análise exploratória e futura modelagem de IA.
+# CardioIA – Fase 1
+
+Projeto acadêmico de análise de dados cardíacos utilizando técnicas de
+Ciência de Dados e Inteligência Artificial.
+
+O objetivo é explorar o dataset Cleveland Heart Disease e imagens de
+eletrocardiograma (ECG) para identificar padrões relacionados a
+doenças cardíacas.
 
 
 ## Tecnologias utilizadas
