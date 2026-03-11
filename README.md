@@ -44,13 +44,21 @@ Esses dados serão utilizados nas próximas fases para treinamento de modelos de
 ## Estrutura do Repositório
 cardioIA-fase1
 │
+
 ├── data/
+
 │   └── heart_disease_cleveland.csv
+
 │
+
 ├── assets/
+
 │   └── ecg_images/
+
 │
+
 ├── notebook.ipynb
+
 └── README.md
 
 Descrição das pastas:
