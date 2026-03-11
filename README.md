@@ -7,13 +7,49 @@ RM: 563420
 
 **Objetivo:** Preparar bases de dados numéricos, textuais e visuais para alimentar os módulos inteligentes do CardioIA (plataforma de cardiologia moderna com IA, IoT, Visão Computacional e NLP).
 
-Nesta fase, coletamos e organizamos dados cardiológicos fundamentais, seguindo princípios de **Governança de Dados** e atenção a **viés** (ex.: representatividade populacional, anonimato, qualidade e limitações éticas). Esses dados serão a base para fases futuras de modelagem, triagem, diagnóstico e monitoramento remoto.
+Fase 1 – Batimentos de Dados, o objetivo foi coletar, organizar e documentar três tipos de dados fundamentais que servirão como base para os módulos inteligentes do sistema:
+ Dados numéricos clínicos (IoT / dados médicos)
+
+ Dados textuais (NLP)
+
+ Dados visuais de exames cardiológicos (Visão Computacional)
+
+Durante essa etapa também foram considerados princípios de Governança de Dados, incluindo:
+
+anonimização dos dados
+
+identificação de possíveis vieses
+
+qualidade e confiabilidade das fontes
+
+impacto ético do uso de dados em saúde
+
+Esses dados serão utilizados nas próximas fases para treinamento de modelos de IA, análises preditivas e sistemas de suporte à decisão clínica.
+
 
 ## Estrutura do Repositório
 
-- `data/` → Dataset numérico (CSV)
-- `assets/` → Textos (.txt) e imagens (ou .zip das imagens)
-- `README.md` → Esta documentação
+CardioIA
+│
+├── data/
+│   └── heart_disease_cleveland.csv
+│
+├── assets/
+│   ├── texto1.txt
+│   ├── texto2.txt
+│   └── ecg_images.zip
+│
+└── README.md
+
+Descrição das pastas:
+
+data/ → dataset numérico em formato CSV
+
+assets/ → textos médicos e imagens de ECG
+
+README.md → documentação do projeto
+
+
 
 ## Parte 1 – Dados Numéricos (IoT / Dados Clínicos)
 
