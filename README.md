@@ -100,9 +100,9 @@ NLP pode processar prontuários eletrônicos, literatura médica e relatos de pa
 **Origem:** Dataset público no Kaggle – "ECG Images Dataset of Cardiac Patients"  
 Link original: https://www.kaggle.com/datasets/evilspirit05/ecg-analysis (ou similar: https://www.kaggle.com/datasets/erhmrai/ecg-image-data)
 
-**Arquivo:** `assets/ecg_images.zip` (compactado para facilitar upload)
+Arquivo: assets/ecg_images.zip (compactado para facilitar upload)
 
-**Link público para download completo das imagens:**  
+Link público para download completo das imagens:
 https://drive.google.com/file/d/16kwOGAmC1nWkSERaDDC4ibowweKVLTeI/view?usp=sharing
 
 **Análises possíveis com Visão Computacional:**
