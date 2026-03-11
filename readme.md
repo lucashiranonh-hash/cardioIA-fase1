@@ -38,14 +38,15 @@ impacto ético do uso de dados em saúde
 Esses dados serão utilizados nas próximas fases para treinamento de modelos de IA, análises preditivas e sistemas de suporte à decisão clínica.
 
 ## Estrutura do Projeto
+
 ```
 cardioIA-fase1
 │
 ├── data/
-│ └── heart_disease_cleveland.csv
+│   └── heart_disease_cleveland.csv
 │
 ├── assets/
-│ └── ecg_images.zip
+│   └── ecg_images.zip
 │
 ├── notebook.ipynb
 └── README.md
@@ -150,4 +151,5 @@ IA em ECG permite laudos rápidos em emergências, monitoramento contínuo via w
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
 
