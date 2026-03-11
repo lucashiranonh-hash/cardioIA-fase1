@@ -41,24 +41,17 @@ impacto ético do uso de dados em saúde
 Esses dados serão utilizados nas próximas fases para treinamento de modelos de IA, análises preditivas e sistemas de suporte à decisão clínica.
 
 
-## Estrutura do Repositório
+## Estrutura do Projeto
+
 cardioIA-fase1
 │
-
 ├── data/
-
 │   └── heart_disease_cleveland.csv
-
 │
-
 ├── assets/
-
-│   └── ecg_images/
-
+│   └── ecg_images.zip
 │
-
 ├── notebook.ipynb
-
 └── README.md
 
 Descrição das pastas:
