@@ -53,8 +53,7 @@ README.md  documentação do projeto
 **Tipo:** Dados reais (anônimos) coletados em hospitais americanos  
 **Arquivo:** `data/heart_disease_cleveland.csv`
   **Link público para download completo:**  
-[https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing](https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing)  
-*(Substitua pelo seu link real do Google Drive / OneDrive – marque como "Qualquer pessoa com o link")*
+https://drive.google.com/file/d/12hp4y465-fFobPqWXDLtwL9Qa276EpxA/view
 
 **Variáveis mais relevantes (do ponto de vista clínico e para IA):**
 - **age** (idade): Fator de risco clássico – risco de DCV aumenta significativamente após 45–50 anos.
